@@ -1,0 +1,2 @@
+# RecSys2013-Yelp-Business-Rating-Prediction-Natural-Language-Processing-Project-
+We are pleased to announce the 2013 Recommender Systems Challenge associated with ACM RecSys 2013.  Known as RecSysChallenge 2013, this is a LBS contest organized by Yelp. The theme of this year’s competition is personalized business recommendations for Yelp users. We provide a detailed snapshot of Yelp data: over 10,000 businesses, 8,000 check-in sites, 40,000 users, and 200,000 reviews from the Phoenix, AZ metropolitan area. Source: https://www.kaggle.com/c/yelp-recsys-2013
